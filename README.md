@@ -31,8 +31,7 @@ skills/
 ├── readme-writer/
 ├── readme-localizer/
 ├── m4l-reference/
-├── zenn-writer/
-└──
+└── zenn-writer/
 ```
 
 各Skillの仕様と使用方法は、それぞれの `SKILL.md` に記載する。
