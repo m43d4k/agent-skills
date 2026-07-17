@@ -1,0 +1,46 @@
+# agent-skills
+
+個人用のAgent Skillsを管理するリポジトリ。
+
+各Skillは独立したディレクトリに配置し、特定の作業方針や手順をAgentへ提供する。
+
+## Skills
+
+### README
+
+- [`readme-bootstrap`](skills/readme-bootstrap/)
+  - 新規リポジトリ向けに、最低限の日本語READMEと`LICENSE`ファイルを作成する。
+
+- [`readme-writer`](skills/readme-writer/)
+  - リポジトリ内の実装や設定、既存ドキュメントを調査し、日本語READMEの作成と修正を支援する。
+
+- [`readme-localizer`](skills/readme-localizer/)
+  - 日本語READMEを原文として、英語READMEを作成・更新する。
+
+- [`m4l-reference`](skills/m4l-reference/)
+  - Max for Liveデバイスの開発、調査、デバッグ、レビュー、互換性判断に、環境固有の参照先と互換性の境界を提供する。
+
+- [`zenn-writer-skill`](skills/zenn-writer-skill/)
+  - Zenn向け日本語技術記事の構成、執筆、推敲、文体レビューを支援する。
+
+## 構成
+
+```text
+skills/
+├── readme-bootstrap/
+├── readme-writer/
+├── readme-localizer/
+├── m4l-reference/
+├── zenn-writer-skill/
+└──
+```
+
+各Skillの仕様と使用方法は、それぞれの `SKILL.md` に記載する。
+
+## 作者
+
+[m43d4k](https://github.com/m43d4k)
+
+## ライセンス
+
+[MIT License](LICENSE)
