@@ -31,7 +31,7 @@ skills/
 ├── readme-writer/
 ├── readme-localizer/
 ├── m4l-reference/
-├── zenn-writer-skill/
+├── zenn-writer/
 └──
 ```
 
