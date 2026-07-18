@@ -24,6 +24,9 @@
 - [`m4l-reference`](skills/m4l-reference/)
   - Max for Liveデバイスの開発、調査、デバッグ、レビュー、互換性判断に、環境固有の参照先と互換性の境界を提供する。
 
+- [`test-driven-development`](skills/test-driven-development/)
+  - 期待する振る舞いを実装より先に明確にし、テストによるフィードバックを設計と実装に利用するAgent Skill。
+
 - [`zenn-writer`](skills/zenn-writer/)
   - Zenn向け日本語技術記事の構成、執筆、推敲、文体レビューを支援する。
 
@@ -37,6 +40,7 @@ skills/
 ├── readme-writer/
 ├── readme-localizer/
 ├── m4l-reference/
+├── test-driven-development/
 └── zenn-writer/
 ```
 
