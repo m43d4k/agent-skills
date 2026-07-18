@@ -2,7 +2,7 @@
 
 実装前の構造化された対話を通じて、曖昧なアイデアを検証済みの設計と仕様へ整理するAgent Skill。
 
-ユーザーが`brainstorming`または`$brainstorming`を明示的に指定した場合だけ使用する。
+ユーザーが`brainstorming`または`$brainstorming`を明示的に指定した場合、または`multi-agent-brainstorming`から`REJECT`として差し戻された場合だけ使用する。
 
 ## 対象
 
