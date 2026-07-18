@@ -8,6 +8,9 @@
 
 ### README
 
+- [`brainstorming`](skills/brainstorming/)
+  - 実装前の構造化された対話を通じて、曖昧なアイデアを検証済みの設計と仕様へ整理するAgent Skill。
+
 - [`readme-bootstrap`](skills/readme-bootstrap/)
   - 新規リポジトリ向けに、最低限の日本語READMEと`LICENSE`ファイルを作成する。
 
@@ -27,6 +30,7 @@
 
 ```text
 skills/
+├── brainstorming/
 ├── readme-bootstrap/
 ├── readme-writer/
 ├── readme-localizer/
