@@ -1,4 +1,4 @@
 [paths]
-guidelines_dir = "~/work_space/Max for Live/01_reference/guidelines"
-playbooks_dir = "~/work_space/Max for Live/01_reference/playbooks"
-sources_dir = "~/work_space/Max for Live/01_reference/sources"
+guidelines_dir = "~/work_space/02_reference/m4l/guidelines"
+playbooks_dir = "~/work_space/02_reference/m4l/playbooks"
+sources_dir = "~/work_space/02_reference/m4l/sources"
