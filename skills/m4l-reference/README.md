@@ -15,23 +15,23 @@ playbooks_dir = "~/path/to/playbooks"
 sources_dir = "~/path/to/sources"
 ```
 
-- `guidelines_dir`: Max for Live作業へ適用するユーザー指示
-- `playbooks_dir`: ユーザー固有の実践情報
-- `sources_dir`: 公式Web資料のURL、用途、バージョン上の注意
+* `guidelines_dir`: Max for Live作業へ適用するユーザー指示
+* `playbooks_dir`: ユーザー固有の実践情報
+* `sources_dir`: 公式Web資料のURL、用途、バージョン上の注意
 
 ## 方針
 
-guidelinesをMax for Live作業へ適用する。
+Max for Liveデバイスの仕様を検討する場合、または実装・修正を行う場合は、guidelinesを作業へ適用する。調査、検証、動作確認、レビューのみを行う場合は適用しない。
 
 利用できる参照資料は次のとおり。
 
-- playbooksにある、ユーザー固有の実践情報
-- 対象Live内蔵MaxのObject Reference、User Guide、help、Examples
-- sources_dirディレクトリ内の、公式Web資料のURL、用途、バージョン上の注意
+* playbooksにある、ユーザー固有の実践情報
+* 対象Live内蔵MaxのObject Reference、User Guide、help、Examples
+* sourcesディレクトリ内の、公式Web資料のURL、用途、バージョン上の注意
 
 参照資料には固定の優先順位を設けない。
 
-- 互換性は対象Liveと、そのLiveに内蔵されたMaxを基準とする。
-- スタンドアロンMaxや別バージョンを暗黙に代用しない。
-- 確認できない内容を仕様として断定しない。
-- 通常作業中に参照資料やSkill自体を勝手に更新しない。
+* 互換性は対象Liveと、そのLiveに内蔵されたMaxを基準とする。
+* スタンドアロンMaxや別バージョンを暗黙に代用しない。
+* 確認できない内容を仕様として断定しない。
+* 通常作業中に参照資料やSkill自体を勝手に更新しない。
