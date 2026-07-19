@@ -25,12 +25,6 @@ guidelinesをMax for Live作業へ適用する。
 
 利用できる参照資料は次のとおり。
 
-- playbooksにあるユーザー固有の実践情報
-- 対象Live内蔵MaxのObject Reference、User Guide、help、Examples
-- sourcesに記録された公式Web資料
-
-
-
 - playbooksにある、ユーザー固有の実践情報
 - 対象Live内蔵MaxのObject Reference、User Guide、help、Examples
 - sources_dirディレクトリ内の、公式Web資料のURL、用途、バージョン上の注意
