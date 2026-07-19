@@ -58,3 +58,6 @@ pnpm-debug.log*
 *.log
 *.tmp
 *.temp
+
+# Local tool configuration
+mise.toml
