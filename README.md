@@ -12,6 +12,9 @@
 - [`multi-agent-brainstorming`](skills/multi-agent-brainstorming/)
   - `brainstorming` で作成した設計を、複数の専門エージェントによる構造化ピアレビューで検証する。
 
+- [`juce-reference`](skills/juce-reference/)
+  - JUCEアプリケーションとオーディオプラグインの開発、調査、デバッグ、レビュー、互換性判断に、環境固有の参照先と互換性の境界を提供する。
+
 - [`readme-bootstrap`](skills/readme-bootstrap/)
   - 新規リポジトリ向けに、最低限の日本語READMEと`LICENSE`ファイルを作成する。
 
@@ -36,6 +39,7 @@
 skills/
 ├── brainstorming/
 ├── multi-agent-brainstorming/
+├── juce-reference/
 ├── readme-bootstrap/
 ├── readme-writer/
 ├── readme-localizer/

@@ -1,0 +1,4 @@
+[paths]
+guidelines_dir = "~/work_space/02_reference/juce/guidelines"
+playbooks_dir = "~/work_space/02_reference/juce/playbooks"
+sources_dir = "~/work_space/02_reference/juce/sources"
